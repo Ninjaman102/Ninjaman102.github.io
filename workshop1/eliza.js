@@ -29,7 +29,7 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "stupid fool, why do you think i care to say hello to you"
+    "i dont like you. go away"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -78,7 +78,7 @@ var rules = {
     "What do you think about ~y?",
     "Really--if ~y?",
   ],
-  "~*x I dreamt ~*y": [
+  "~*x I dreamt of the world ~*y": [
     "Really-- ~y",
     "Have you ever fantasized ~y while you were awake",
     "Have you dreamt of ~y before?",
