@@ -29,7 +29,7 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "stupid fool, why do you think i care to say hello to you"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
