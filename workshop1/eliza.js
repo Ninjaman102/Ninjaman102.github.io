@@ -135,25 +135,9 @@ var rules = {
     "Were you really?",
     "Perhaps I already knew you were ~y.",
     "Why do you tell me you were ~y now?",
-  ],
-  "~*x was I ~*y": [
-    "What if you were ~y?",
-    "Do you think you were ~y?",
-    "What would it mean if you were ~y?",
-  ],
-  "~*x I am ~*y": [
-    "In what way are you ~y?",
-    "Do you want to be ~y?",
-  ],
-  "~*x am I ~*y": [
-    "Do you believe you are ~y?",
-    "Would you want to be ~y?",
-    "You wish I would tell you you are ~y?",
-    "What would it mean if you were ~y?",
-  ],
+
   "~*x am ~*y": [
-    "Why do you say 'AM?'",
-    "I don't understand that",
+   rstand that",
   ],
   "~x are ~*y": [
     "Did you think they might not be ~y?",
